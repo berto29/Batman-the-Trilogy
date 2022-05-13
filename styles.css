@@ -1,0 +1,26 @@
+div{display:flex;
+    justify-content:center;
+    background-color:black;
+    color:yellow;
+}
+
+img{ width:650px;
+    height:450px;
+   
+}
+
+div1{display:flex;
+    justify-content:center;
+    background-color:black;
+    color:white;
+}
+
+.L{ width:650px;
+    height:750px;
+   
+}
+
+
+button{background-color:lightblue;
+
+}
